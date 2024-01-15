@@ -1,6 +1,6 @@
 # - 👋 Hi, I’m Ajayi Oluwaseyi #
 
-## I am Data Analyst ##
+## I am production/industrial engineer tuurned Data Analyst ##
 
 -
 - 👀 I’m interested in Data Analytics and Machine Learning
